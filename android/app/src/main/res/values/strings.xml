@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Financelot</string>
+    <string name="title_activity_main">Financelot</string>
+    <string name="package_name">com.tuempresa.financeapp</string>
+    <string name="custom_url_scheme">com.tuempresa.financeapp</string>
+</resources>

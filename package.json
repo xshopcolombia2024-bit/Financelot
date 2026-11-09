@@ -1,0 +1,19 @@
+{
+  "name": "financelot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/core": "latest",
+    "@capacitor/android": "latest",
+    "@capacitor/ios": "latest",
+    "@revenuecat/purchases-capacitor": "latest",
+    "@capacitor/filesystem": "latest",
+    "@capacitor/share": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}
